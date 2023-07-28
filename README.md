@@ -18,7 +18,7 @@ We use nuImages pretrained weights from [mmdetection3d](https://github.com/open-
 
 * After preparation, you will be able to see the following directory structure:  
   ```
-  PETR
+  MV2D
   ├── mmdetection3d
   ├── configs
   ├── mmdet3d_plugin
