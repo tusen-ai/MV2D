@@ -39,11 +39,11 @@ cd MV2D
 ```
 You can train the model following:
 ```bash
-tools/dist_train.sh configs/mv2d/exp/mv2d_r50_frcnn_two_frames_1408x512_ep24.py 8 
+bash tools/dist_train.sh configs/mv2d/exp/mv2d_r50_frcnn_two_frames_1408x512_ep24.py 8 
 ```
 You can evaluate the model following:
 ```bash
-tools/dist_test.sh configs/mv2d/exp/mv2d_r50_frcnn_two_frames_1408x512_ep24.py work_dirs/mv2d_r50_frcnn_two_frames_1408x512_ep24/latest.pth 8 --eval bbox
+bash tools/dist_test.sh configs/mv2d/exp/mv2d_r50_frcnn_two_frames_1408x512_ep24.py work_dirs/mv2d_r50_frcnn_two_frames_1408x512_ep24/latest.pth 8 --eval bbox
 ```
 
 ## Main Results
