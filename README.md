@@ -50,6 +50,7 @@ bash tools/dist_test.sh configs/mv2d/exp/mv2d_r50_frcnn_two_frames_1408x512_ep24
 |                                             config                                              |  mAP  |  NDS  |  checkpoint  |
 |:-----------------------------------------------------------------------------------------------:|:-----:|:-----:|:------------:|
 |    [MV2D-T_R50_1408x512_ep72](./configs/mv2d/exp/mv2d_r50_frcnn_two_frames_1408x512_ep72.py)    | 0.453 | 0.543 | [download](https://drive.google.com/file/d/10zwn2UWb2IzIWqJK1a2y466ZSWoLkD-e/view?usp=drive_link) |  
+| [MV2D-S_R50_1408x512_ep72](./configs/mv2d/exp/mv2d_r50_frcnn_single_frame_roi_1408x512_ep72.py) | 0.398 | 0.470 | [download](https://drive.google.com/file/d/139Lsn-UY78ukfOkVlPh6ywnoY_TvdwZn/view?usp=drive_link) |  
 
 
 ## Acknowledgement
