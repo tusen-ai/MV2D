@@ -8,7 +8,7 @@ We design Multi-View 2D Objects guided 3D Object Detector (MV2D), which can lift
 This implementation is built upon [PETR](https://github.com/megvii-research/PETR/tree/main), and can be constructed as the [install.md](https://github.com/megvii-research/PETR/blob/main/install.md).
 
 * Environments  
-  Linux, Python == 3.8.10, CUDA == 11.3, pytorch == 1.11.0, mmcv == 1.6.1, mmdet == 2.25.1, mmdet3d == 2.25.1, mmsegmentation == 0.28.0   
+  Linux, Python == 3.8.10, CUDA == 11.3, pytorch == 1.11.0, mmcv == 1.6.1, mmdet == 2.25.1, mmdet3d == 1.0.0, mmsegmentation == 0.28.0   
 
 * Detection Data   
 Follow the mmdet3d to process the nuScenes dataset (https://github.com/open-mmlab/mmdetection3d/blob/master/docs/en/data_preparation.md).
